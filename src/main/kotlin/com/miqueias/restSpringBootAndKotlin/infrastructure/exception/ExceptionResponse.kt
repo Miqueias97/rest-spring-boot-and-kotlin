@@ -1,4 +1,4 @@
-package com.miqueias.restSpringBootAndKotlin.exception
+package com.miqueias.restSpringBootAndKotlin.infrastructure.exception
 
 import java.util.Date
 
