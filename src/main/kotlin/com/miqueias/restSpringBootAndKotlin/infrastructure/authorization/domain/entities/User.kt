@@ -1,4 +1,4 @@
-package com.miqueias.restSpringBootAndKotlin.domain.entities
+package com.miqueias.restSpringBootAndKotlin.infrastructure.authorization.domain.entities
 
 import jakarta.persistence.Column
 import jakarta.persistence.Entity

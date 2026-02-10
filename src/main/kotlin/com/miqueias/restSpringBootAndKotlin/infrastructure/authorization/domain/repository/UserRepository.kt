@@ -1,6 +1,6 @@
 package com.miqueias.restSpringBootAndKotlin.infrastructure.authorization.domain.repository
 
-import com.miqueias.restSpringBootAndKotlin.domain.entities.User
+import com.miqueias.restSpringBootAndKotlin.infrastructure.authorization.domain.entities.User
 import org.springframework.data.jpa.repository.JpaRepository
 import org.springframework.data.jpa.repository.Query
 import java.util.UUID
